@@ -29,7 +29,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "dfware\\csvgrid\\": "src" }
+        "psr-4": { "yii2tech\\csvgrid\\": "src" }
     },
     "extra": {
         "branch-alias": {
