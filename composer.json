@@ -1,19 +1,19 @@
 {
-    "name": "yii2tech/csv-grid",
+    "name": "dfware/csv-grid",
     "description": "Yii2 extension data export to CSV file",
     "keywords": ["yii2", "csv", "export", "large data"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yii2tech/csv-grid/issues",
+        "issues": "https://github.com/dfware/csv-grid/issues",
         "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "https://github.com/yii2tech/csv-grid/wiki",
-        "source": "https://github.com/yii2tech/csv-grid"
+        "wiki": "https://github.com/dfware/csv-grid/wiki",
+        "source": "https://github.com/dfware/csv-grid"
     },
     "authors": [
         {
-            "name": "Paul Klimov",
-            "email": "klimov.paul@gmail.com"
+            "name": "Pavel Karelin",
+            "email": "devpastet@yandex.ru"
         }
     ],
     "require": {
@@ -29,7 +29,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "yii2tech\\csvgrid\\": "src" }
+        "psr-4": { "dfware\\csvgrid\\": "src" }
     },
     "extra": {
         "branch-alias": {
